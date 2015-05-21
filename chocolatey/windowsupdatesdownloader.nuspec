@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>windowsupdatesdownloader</id>
+    <version>2.5.0.1002</version>
+    <title>windowsupdatesdownloader</title>
+    <authors>Jean-Sebastien Carle</authors>
+    <owners>Jean-Sebastien Carle</owners>
+    <licenseUrl>http://www.windowsupdatesdownloader.com/</licenseUrl>
+    <projectUrl>http://www.windowsupdatesdownloader.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WUD allows you to download all of the current Windows Updates using a simple interface. All of the updates are contained in Update Lists (ULs) which allows you to choose which updates you want for which version of Windows.</description>
+    <summary>WUD allows you to download all of the current Windows Updates using a simple interface. All of the updates are contained in Update Lists (ULs) which allows you to choose which updates you want for which version of Windows.</summary>
+    <tags>windows update downloader</tags>
+  </metadata>
+</package>
